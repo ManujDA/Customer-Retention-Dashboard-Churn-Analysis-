@@ -12,19 +12,10 @@ This project showcases a comprehensive Power BI dashboard designed for a telecom
 
 ## Stakeholder Requirements
 The dashboard was developed in response to the following objectives outlined by the telecom retention manager:
-
-### Proactive Customer Retention:
 - Identify customers at risk of churn before contract termination.
 - Implement measures to retain high-risk customers.
-
-### Enhanced Customer Understanding:
 - Provide clear and self-explanatory visualisations for management.
-
-### Actionable Insights:
 - Use data-driven insights to shift from reactive to proactive retention strategies.
-
-### Improved KPIs:
-- Define and track relevant KPIs to assess retention success.
 
 ## Dashboard Features
 
@@ -50,28 +41,18 @@ The dashboard was developed in response to the following objectives outlined by 
 
 ## Insights
 - The customer churn rate last month was 27%, which means that out of 7043 customers, 1869 left the company.
-- **Key Factors in Churn Prediction:**
-  - Customers with a monthly contract and lower tenure are more likely to churn.
-  - Customers who do not have dependents or partners are more prone to churn.
-  - Fibre Optic internet users have a higher churn rate.
-  - Electronic check payment method is the most common among churned customers.
-- **Unsubscribed Services Impact:**
-  - Customers lacking tech support, device protection, and online security are more dissatisfied.
+- The length of the contract and the tenure of the customer are key factors in predicting the churn behavior.
+- Customers who have a monthly contract and a lower tenure are more likely to switch to other providers.
+- Customers who do not have any dependents or partners are more prone to churn than those who do.
+- Gender does not seem to have a significant impact on the churn decision. However, senior citizens are less likely to churn than non-senior citizens
+- Customers who use Fibre Optic internet service have a higher churn rate than those who use other types of internet service. The payment method also influences the churn decision, with Electronic check being the most common among the churned customers.
+- Customers who do not receive services such as Tech Support, Device Protection, and Online Security are more dissatisfied and tend to look for other options.
 
 ## Recommendations
 The insights derived from the dashboard lead to actionable recommendations:
 
-### Encourage Long-Term Commitments:
 - Offer incentives for customers to move from month-to-month to longer-term contracts.
-
-### Optimise Payment Methods:
 - Promote automatic payment methods like bank transfers or credit cards to improve retention rates.
-
-### Strengthen Tech Support:
 - Focus on fibre optic customers by increasing tech support resources and resolving tickets more efficiently.
-
-### Targeted Retention Campaigns:
 - Use segmentation tools to identify and prioritise outreach to high-value and high-risk customers.
-
-### Proactive Engagement:
 - Engage with at-risk customers before their contracts lapse to reduce churn rates.
