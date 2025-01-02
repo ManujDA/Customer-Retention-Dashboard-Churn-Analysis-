@@ -28,7 +28,8 @@ The dashboard was developed in response to the following objectives outlined by 
 
 ---
 
-![Ch_2](https://github.com/user-attachments/assets/3fc2f4f6-101f-4735-8782-6a568baae3e6)
+![Ch_2](https://github.com/user-attachments/assets/91befbb7-7491-43cf-a6f1-34afb686d929)
+
 
 ### Churn Dashboard
 - **Demographics**: Gender, senior citizen status, partner and dependent proportions.
