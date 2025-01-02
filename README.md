@@ -26,12 +26,16 @@ The dashboard was developed in response to the following objectives outlined by 
 - Boost sales of 1-year and 2-year contracts by 5% each.
 - Achieve a yearly 5% increase in automatic payment adoption.
 
+---
+
 ![Ch_2](https://github.com/user-attachments/assets/3fc2f4f6-101f-4735-8782-6a568baae3e6)
 
 ### Churn Dashboard
 - **Demographics**: Gender, senior citizen status, partner and dependent proportions.
 - **Account Information**: Payment methods, paperless billing and charges.
 - **Services Signed Up**: Internet services, streaming, security and tech support usage.
+
+---
 
 ![Ch_3](https://github.com/user-attachments/assets/33718e56-5989-4088-8f60-67eaf285a4e8)
 
